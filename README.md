@@ -1,3 +1,10 @@
+# Sistem Monitoring Penerangan Lampu Jalan secara Otomatis dengan Sensor Cahaya menggunakan Nodered
+
+## Nama Kelompok :
+1. Dina Lisuardi (1941723004)
+2. Yuni Kurnia Taramita (1941723002)
+
+
 ## nodemcu + MQTT + LDR sensor
 
 ## Library yang digunakan 
